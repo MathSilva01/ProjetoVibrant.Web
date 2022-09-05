@@ -87,10 +87,4 @@ img#container:hover {
 	display: inline-block;
 	width: 45%;
 	font-size: 18px;
-}
-
-a {
-	text-decoration: none;
-	color: black;
-	padding: 25px;
-}
+} 
