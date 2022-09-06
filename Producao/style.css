@@ -3,16 +3,13 @@ body {
 	width: 100%;
     overflow-x: hidden;
 }
-
 nav#header {
-	border: 5px solid black;
 	margin: 25px 0px;
 	display: inline-flex;
 	width: 100%;
 }
 
 .perfil {
-	border: 5px solid black;
 	width: 20%;
 }
 
@@ -30,17 +27,16 @@ nav#header {
 	transform: scale(1.05);
 }
 #dropdown {
-	border: 5px solid black;
 	width: 300px;
-	margin: 50px 0px;
+	margin: 50px;
 }
 
 div#navBar {
-	border: 5px solid black;
 	width: 100%;
 }
 
 ul#listNavBar {
+	height: 100%;
 	padding: 40px 20px;
 }
 
@@ -50,8 +46,6 @@ div#carrosel{
 }
 
 div#layout1 {
-	background-image: url("imagens/conteudo/fundo.jpg");
-	background-repeat: repeat;
 	margin: 250px 0px;
 	width: 100%;
 }
@@ -68,7 +62,7 @@ img#carrosel1 {
 }
 
 img#container {
-	width: 60%;
+	width: 45%;
 	margin: 0px 30px 0px 30px;
 	-moz-transition: 0.2s;
 	-webkit-transition: 0.2s;
@@ -83,7 +77,8 @@ img#container:hover {
 
 #texto {
 	display: inline-block;
-	width: 30%;
+	width: 45%;
+	font-size: 18px;
 } 
 
 h2 {
