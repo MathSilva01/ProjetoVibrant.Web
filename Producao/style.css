@@ -18,6 +18,11 @@ nav#header {
 	padding: 20px;
 	width: 15%;
 }
+
+.logo3 {
+	width: 20%;
+}
+
 .jogos {
 	margin: 0px 20px;
 	width: 20%;
@@ -31,12 +36,17 @@ nav#header {
 	-webkit-transform: scale(1.05);
 	transform: scale(1.05);
 }
+#dropdown {
+	width: 300px;
+	margin: 50px;
+}
 
 div#navBar {
 	width: 100%;
 }
 
 ul#listNavBar {
+	height: 100%;
 	padding: 40px 20px;
 }
 
