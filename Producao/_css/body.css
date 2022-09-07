@@ -1,0 +1,43 @@
+body {
+	/*background: #c100e9;*/
+	border: 1px solid black;
+	margin: auto;
+	width: 98%;
+    overflow-x: hidden;
+}
+
+div.carrosel {
+	margin: 100px 0px;
+	text-align: center;
+	border: 1px solid black;
+	max-width: 100%;
+	height: auto;
+}
+
+div.textoCentralizado {
+	margin: 0px auto 0px auto;
+	border: 1px solid black;
+	text-align: center;
+	width: 45%;
+	font-size: 20px;
+}
+
+div.conteudo {
+	display: inline-flex;
+	border: 1px solid black;
+	margin: 100px 0px;
+	width: 100%;
+}
+
+div.iconGames {
+	text-align: center;
+	border: 1px solid black;
+	width: 100%;
+}
+
+
+
+h2.subtitulo {
+	border: 1px solid black;
+	text-align: center;
+}

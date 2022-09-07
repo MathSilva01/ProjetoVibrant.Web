@@ -1,0 +1,40 @@
+.iconePerfil {
+	border: 1px solid black;
+	margin: 0px auto 0px auto;
+	width: 40%;
+	height 
+
+}
+.imgCarrosel {
+	width: 80%;
+	-moz-transform: scale(1.05);
+	-webkit-transform: scale(1.05);
+	transform: scale(1.05);
+}
+
+.efeitoZoom {
+	margin: 0px 30px 0px auto;
+	width: 45%;
+	-moz-transition: 0.4s;
+	-webkit-transition: 0.4s;
+	transition: 0.4s;
+}
+
+.efeitoZoom:hover {
+	-moz-transform: scale(1.1);
+	-webkit-transform: scale(1.1);
+	transform: scale(1.1);
+}
+.gameSelect {
+	border: 1px solid black;
+	width: 20%;
+	-moz-transition: 0.2s;
+	-webkit-transition: 0.2s;
+	transition: 0.2s;
+}
+
+.gameSelect:hover {
+	-moz-transform: scale(1.05);
+	-webkit-transform: scale(1.05);
+	transform: scale(1.05);
+}
