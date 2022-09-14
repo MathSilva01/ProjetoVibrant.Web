@@ -1,0 +1,14 @@
+body {
+	/*background: #c100e9;*/
+	width: 100%;
+    overflow-x: hidden;
+}
+
+div#carrosel{
+	background-color: #555555;
+	margin: 150px 0px 500px 0px;
+}
+
+h2 {
+	margin: 50px;
+}

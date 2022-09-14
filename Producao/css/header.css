@@ -1,0 +1,23 @@
+div#navBar {
+	width: 100%;
+}
+
+ul#listNavBar {
+	height: 100%;
+	padding: 40px 20px;
+}
+
+nav#header {
+	margin: 25px 0px;
+	display: inline-flex;
+	width: 100%;
+}
+
+.perfil {
+	width: 20%;
+}
+
+#dropdown {
+	width: 300px;
+	margin: 50px;
+}
