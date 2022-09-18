@@ -1,32 +1,23 @@
-#navBar {
+div#navBar {
 	width: 100%;
 }
 
-#listNavBar {
+ul#listNavBar {
 	height: 100%;
 	padding: 40px 20px;
 }
 
-#header {
+nav#header {
 	margin: 25px 0px;
 	display: inline-flex;
 	width: 100%;
-}
-
-#dropdown {
-	width: 300px;
-	margin: 50px;
 }
 
 .perfil {
 	width: 20%;
 }
 
-.link {
-	text-decoration: none;
-	color: black;	
-}
-
-.link:hover {
-	text-decoration: underline;
+#dropdown {
+	width: 300px;
+	margin: 50px;
 }
