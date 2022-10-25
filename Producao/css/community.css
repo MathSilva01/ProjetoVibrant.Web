@@ -7,18 +7,20 @@
 }
 
 .jogos:hover {
+	width: 25%;
 	-moz-transform: scale(1.05);
 	-webkit-transform: scale(1.05);
 	transform: scale(1.05);
 }
 
-div#layout1 {
+div.layout1 {
+	display: flex;
+	border: 1px solid black;
 	margin: 250px 0px;
 	width: 100%;
 }
 
 div#iconJogos {
-	margin: 75px 0px;
 	width: 100%;
 }
 
@@ -30,7 +32,6 @@ img#carrosel1 {
 
 img.container {
 	width: 45%;
-	margin: 0px 30px 0px 30px;
 	-moz-transition: 0.2s;
 	-webkit-transition: 0.2s;
 	transition: 0.2s;
@@ -43,7 +44,13 @@ img.container:hover {
 }
 
 #texto {
+	border: 1px solid black;
 	display: inline-block;
-	width: 45%;
+	width: 35%;
 	font-size: 18px;
+}
+
+.input {
+	border: 1px solid black;
+	width: 20%;
 }
